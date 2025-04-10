@@ -1,0 +1,6 @@
+streamlit
+speechrecognition
+deep-translator
+wordcloud
+matplotlib
+soundfile

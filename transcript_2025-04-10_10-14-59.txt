@@ -1,0 +1,15 @@
+0 to 1 sec: I
+1 to 2 sec: think
+2 to 3 sec: no
+3 to 4 sec: it
+4 to 5 sec: is
+5 to 6 sec: recording
+6 to 7 sec: Weather
+7 to 9 sec: Tumaro
+9 to 10 sec: Name
+10 to 11 sec: Kya
+11 to 12 sec: Hai
+12 to 13 sec: Me
+13 to 14 sec: Jayaprakash
+14 to 15 sec: and
+15 to 16 sec: Tha

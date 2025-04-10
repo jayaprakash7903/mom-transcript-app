@@ -1,0 +1,7 @@
+tkinter
+sounddevice
+soundfile
+speech_recognition
+deep_translator
+wordcloud
+matplotlib
