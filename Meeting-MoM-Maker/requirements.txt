@@ -3,5 +3,5 @@ SpeechRecognition
 deep-translator
 wordcloud
 matplotlib
-numpy
 soundfile
+numpy
