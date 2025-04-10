@@ -1,6 +1,7 @@
 streamlit
-speechrecognition
+SpeechRecognition
 deep-translator
 wordcloud
 matplotlib
+numpy
 soundfile
